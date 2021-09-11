@@ -17,7 +17,6 @@
 	1. [https://twitter.com/amc_corporation](https://twitter.com/amc_corporation "Twitter")
 	1. [https://twilog.org/amc_corporation](https://twilog.org/amc_corporation "Twilog")
 	1. [https://www.youtube.com/user/michiomitake](https://www.youtube.com/user/michiomitake "YouTube")
-	1. [https://www.facebook.com/asset.management.consulting](https://www.facebook.com/asset.management.consulting "Facebook")
 	1. [https://github.com/am-consulting](https://github.com/am-consulting "GitHub")
 - **運営Webサイト**
 	1. [アセット・マネジメント･コンサルティング株式会社](https://am-consulting.co.jp "アセット・マネジメント･コンサルティング株式会社")
